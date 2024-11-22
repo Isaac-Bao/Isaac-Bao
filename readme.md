@@ -4,3 +4,5 @@
 ## 小玩意们
 - Hexo个人博客：https://www.ganzhe.site
 - 班级/Space-One博客：https://etulishi.cn
+
+> Main: https://github.com/Ganzhe2028
